@@ -7,7 +7,7 @@ Move the plugin to the `custom/plugins` directory on your server and activate it
 
 ## Meta
 
-Dennis Barthel – [@deezin](https://twitter.com/deezin) – dennis@deezin.com
+Dennis Barthel – [@deezin](https://twitter.com/deezin) – dennis@deezin.de
 
 Distributed under the GPLv3 license. See ``LICENSE`` for more information.
 
